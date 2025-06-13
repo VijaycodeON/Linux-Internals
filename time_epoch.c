@@ -20,7 +20,7 @@ int main()
 	return 1;
     }
 
-    //print messages
+    //print messages, both prints the same epoch time.
     printf("epoch time is %ld\n", ret_time);
     printf("epoch time is %ld\n", my_time);
      
